@@ -5,6 +5,7 @@ Realm 在react-native 的一次实践。
 yarn add realm --save 
 
 链接
+
 react-native link realm
 
 官方文档链接:
